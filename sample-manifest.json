@@ -1,0 +1,12 @@
+{
+  "export_job_id": "50cf08c1-e19c-4ee3-8f48-94fbb3288985",
+  "id_short": 321366,
+  "published_at": "2026-04-12T07:14:18Z",
+  "repo_name": "the-hhi-monopoly-index-for-san-jose-california-us-sample-321366",
+  "sample_asset_name": "beamstation_321366_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/321366/beamstation_321366_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_records": 3,
+  "sample_sha256": "94c966d041e9d833f19ce7990683610be57be111308bdf0724f86e5b30deb6d3",
+  "sample_size_bytes": 29844,
+  "total_records": 30
+}
