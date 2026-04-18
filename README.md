@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for San Jose, California, US
 
-> Free BeamStation sample export with 3 rows and masked direct-contact fields.
+> Free BeamStation sample export with 2 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `321366` |
 | Location | San Jose |
 | Category | Restaurants |
-| Full dataset size | 30 records |
-| Free sample size | 3 records (10.0%) |
-| Last export | 2026-04-07T15:35:13.064692+00:00 |
+| Full dataset size | 24 records |
+| Free sample size | 2 records (8.33%) |
+| Last export | 2026-04-14T21:59:32.398143+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-san-jose-california-us-sample-321366/releases/download/sample-latest/beamstation_321366_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
